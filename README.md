@@ -101,7 +101,7 @@ Ultimately, I want to work on problems where **engineering knowledge, data and c
 
   * Computer Science foundations and programming
 
-* **Graduate Member, Nigeria Society of Engineers (GMNSE)[https://drive.google.com/file/d/1gRIOEfwgziNTOfSBdMt7YBWMJYJkDFMK/view]**
+* **Graduate Member, Nigeria Society of Engineers [GMNSE](https://drive.google.com/file/d/1gRIOEfwgziNTOfSBdMt7YBWMJYJkDFMK/view)**
 
   
 
